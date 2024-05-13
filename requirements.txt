@@ -1,6 +1,5 @@
-streamlit
-pandas
-numpy
-matplotlib
-openpyxl
-os
+streamlit>1
+pandas>2.0
+numpy>1.0
+matplotlib==3.8.4
+openpyxl==3.1.2
